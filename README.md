@@ -49,7 +49,7 @@ To set up the project using Docker:
 2. Build and run the containers:
 
    ```sh
-   docker-compose up --build
+   docker-compose up -d
    ```
 
 ## Database Migrations and Seeding
